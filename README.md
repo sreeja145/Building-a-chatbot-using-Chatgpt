@@ -1,6 +1,6 @@
 # Building-a-chatbot-using-Chatgpt
 run app.py using the following command
-streamlit run app.py 
+### " streamlit run app.py "
 which deploys the program and opens the window as shown below
 ![image](https://github.com/sreeja145/Building-a-chatbot-using-Chatgpt/assets/73514771/e49861ab-ba39-4944-ab32-ced207519b0d)
 
